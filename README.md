@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Market Timing Research
 
 This repository consolidates four independent market timing strategies, each located in its own subfolder:
@@ -14,3 +15,6 @@ This repository consolidates four independent market timing strategies, each loc
 - **RSRS Market Timing**  
   Applies RSRS (Regression Slope of Relative Strength) to signal market regime shifts.
 
+=======
+# market-timing-research
+>>>>>>> b295551ffef5b1452b4cd2ff53f1fbe6c6883f50
